@@ -3,9 +3,22 @@
   "features": [
     {
       "type": "Feature",
+      "properties": {
+        "name": "Holiday Inn - LAX"
+      },
       "geometry": {
         "type": "Point",
-        "coordinates": [-104.99404, 39.75621] 
+        "coordinates": [ -118.370945, 33.945950 ] 
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Las Vegas Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -115.154682, 36.125467 ] 
       }
     }
   ]
