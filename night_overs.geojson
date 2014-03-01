@@ -20,6 +20,16 @@
         "type": "Point",
         "coordinates": [ -115.154682, 36.125467 ] 
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mather Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -112.11850, 36.04887 ] 
+      }
     }
   ]
 }
