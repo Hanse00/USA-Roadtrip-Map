@@ -30,6 +30,26 @@
         "type": "Point",
         "coordinates": [ -112.11850, 36.04887 ] 
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olde Town Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -90.0556925, 29.9678354 ] 
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Memphis Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -90.0283956, 35.0491784 ] 
+      }
     }
   ]
 }
