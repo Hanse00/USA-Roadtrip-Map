@@ -37,6 +37,17 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Carlsbad RV Park",
+        "marker-symbol": "campsite"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -104.23550, 32.36802 ] 
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Olde Town Inn",
         "marker-symbol": "lodging"
       },
